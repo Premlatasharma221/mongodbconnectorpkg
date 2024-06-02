@@ -1,0 +1,9 @@
+pymango## use for interacting with mongo db database
+pymango[srv]## provide solid foundation for connecting to a mongdb atlas cluter using an SRV connection string and performing basic crud operation
+dnspython#(domain name system) 
+pandas
+numpy
+ensure## allows us to perform various checks and assertion
+pytest## testing framework for python
+
+#-e .## for the local package
